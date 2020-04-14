@@ -1,0 +1,469 @@
+,id,ID,cycexp,G2_year,YOB,famfriends,cycling_test,walk_test,downtown_test,downtown_tor,turn_num,MV,PED,CYC,direction,control_type,failure
+1,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T1,1,1,1.333333333,Right,Signalized,No
+2,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T2,1,1.333333333,1,Left,Signalized,No
+3,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T3,1,1,1,Right,Signalized,No
+4,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T4,2.333333333,2,1,Right,Signalized,No
+5,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T5,1,1,1,Left,Uncontrolled,Yes
+6,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T6,2,1.666666667,1,Left,Signalized,No
+7,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T7,1,1,1,Left,Uncontrolled,Yes
+8,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T8,1,1.333333333,1,Right,Uncontrolled,No
+9,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,Yes
+10,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T10,1,1,1,Right,Signalized,Yes
+11,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T11,2,1,1,Right,Signalized,Yes
+12,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T12,1,1,1,Left,Uncontrolled,Yes
+13,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T13,1,1,1,Right,Signalized,No
+14,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+15,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T15,1,1,1,Right,Signalized,No
+16,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T16,1.333333333,1,1,Left,Uncontrolled,No
+17,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T17,1,1,1,Left,Signalized,No
+18,1,2001,Every day or almost every day,1992,1972,No,Every day or almost every day,A few days a week,A few days a week,A few days a week,T18,3,1,1,Left,Signalized,No
+19,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T1,3,3,1,Right,Signalized,No
+20,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T2,3,3,1,Left,Signalized,No
+21,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T3,2,1,1,Right,Signalized,No
+22,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T4,1,1,1,Right,Signalized,No
+23,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T5,1,1,1,Left,Uncontrolled,Yes
+24,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T6,1.666666667,1,1,Left,Signalized,No
+25,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T7,1,1,1,Left,Uncontrolled,No
+26,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T8,1.333333333,1.333333333,1,Right,Uncontrolled,Yes
+27,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T9,1,1,1,Right,Uncontrolled,Yes
+28,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T10,2,1,1,Right,Signalized,No
+29,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T11,1.666666667,3,1,Right,Signalized,No
+30,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T12,1.666666667,2.333333333,1,Left,Uncontrolled,No
+31,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T13,1.333333333,2,1,Right,Signalized,Yes
+32,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T14,1,2.333333333,1,Right,Uncontrolled,No
+33,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T15,2,2,1,Right,Signalized,No
+34,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T16,1.666666667,2,1,Left,Uncontrolled,Yes
+35,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T17,1,1,1,Left,Signalized,No
+36,2,2002,A few times or less,1987,1970,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T18,2.333333333,1,1,Left,Signalized,No
+37,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T1,1,1,1,Right,Signalized,No
+38,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T2,1.333333333,1,1,Left,Signalized,No
+39,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T3,2,1,1,Right,Signalized,No
+40,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T4,1,1,1,Right,Signalized,No
+41,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T5,1.333333333,1,1,Left,Uncontrolled,Yes
+42,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T6,1,1,1,Left,Signalized,No
+43,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T7,2,1,1,Left,Uncontrolled,No
+44,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T8,1.666666667,1,1,Right,Uncontrolled,No
+45,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T9,1,1,1,Right,Uncontrolled,Yes
+46,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T10,NA,NA,NA,Right,Signalized,NA
+47,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T11,NA,NA,NA,Right,Signalized,NA
+48,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T12,NA,NA,NA,Left,Uncontrolled,NA
+49,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T13,NA,NA,NA,Right,Signalized,NA
+50,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T14,NA,NA,NA,Right,Uncontrolled,NA
+51,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T15,NA,NA,NA,Right,Signalized,NA
+52,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T16,NA,NA,NA,Left,Uncontrolled,NA
+53,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T17,NA,NA,NA,Left,Signalized,NA
+54,3,2004,A few days a week,1992,1974,Yes,A few days a month,A few times a year or less,A few days a month,A few days a month,T18,NA,NA,NA,Left,Signalized,NA
+55,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T1,1,1,1,Right,Signalized,No
+56,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T2,2,1,1,Left,Signalized,No
+57,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T3,1,1,1,Right,Signalized,Yes
+58,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T4,1.333333333,1,1,Right,Signalized,Yes
+59,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T5,1,1,1,Left,Uncontrolled,Yes
+60,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T6,1,1,1,Left,Signalized,No
+61,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T7,1.666666667,1,1,Left,Uncontrolled,Yes
+62,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T8,1,1,1,Right,Uncontrolled,No
+63,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,No
+64,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T10,1,1,1,Right,Signalized,No
+65,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T11,1,1,1,Right,Signalized,No
+66,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+67,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T13,1,1,1,Right,Signalized,No
+68,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+69,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T15,1,1,1,Right,Signalized,No
+70,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T16,1,1,1,Left,Uncontrolled,No
+71,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T17,1,1,1,Left,Signalized,No
+72,4,2006,A few times or less,1992,1976,Yes,Never,A few days a week,A few days a week,A few days a week,T18,2,1,1,Left,Signalized,No
+73,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T1,1,1,1,Right,Signalized,No
+74,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T2,1.666666667,1,1,Left,Signalized,No
+75,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T3,1,1,1,Right,Signalized,Yes
+76,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T4,1,1,1,Right,Signalized,Yes
+77,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T5,1,1,1,Left,Uncontrolled,Yes
+78,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T6,1,1,1,Left,Signalized,No
+79,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T7,1,1,1,Left,Uncontrolled,No
+80,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T8,2.666666667,1,1,Right,Uncontrolled,Yes
+81,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T9,1,1,1,Right,Uncontrolled,Yes
+82,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T10,1,1,1,Right,Signalized,Yes
+83,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T11,1,1,1,Right,Signalized,No
+84,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T12,2,2,1,Left,Uncontrolled,No
+85,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T13,1,1,1,Right,Signalized,No
+86,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T14,1,1,1,Right,Uncontrolled,No
+87,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T15,1.666666667,2,1,Right,Signalized,Yes
+88,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T16,1,1,1,Left,Uncontrolled,Yes
+89,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T17,1,1,1,Left,Signalized,No
+90,5,2007,A few times or less,2003,1980,No,Never,Never,A few times a year or less,A few days a month,T18,1,1,1,Left,Signalized,No
+91,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T1,1,1,1,Right,Signalized,No
+92,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T2,1.333333333,1,1,Left,Signalized,No
+93,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T3,1,1,1,Right,Signalized,No
+94,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T4,2.333333333,1,1.666666667,Right,Signalized,No
+95,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T5,1,1,1,Left,Uncontrolled,No
+96,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T6,1,1,1,Left,Signalized,No
+97,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T7,1,1,1,Left,Uncontrolled,No
+98,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T8,1.666666667,1,1,Right,Uncontrolled,No
+99,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,No
+100,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T10,1,1,1,Right,Signalized,No
+101,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T11,2,1,1,Right,Signalized,No
+102,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+103,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T13,1.666666667,1,1,Right,Signalized,No
+104,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+105,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T15,1.333333333,1,1,Right,Signalized,No
+106,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T16,1,1,1,Left,Uncontrolled,No
+107,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T17,1,1,1,Left,Signalized,No
+108,6,2008,A few days a week,2004,1982,Yes,A few days a week,Never,A few days a week,A few days a week,T18,1,1,1,Left,Signalized,No
+109,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T1,2.333333333,1,1,Right,Signalized,No
+110,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T2,2.333333333,2.333333333,1,Left,Signalized,No
+111,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T3,1,1,1,Right,Signalized,No
+112,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T4,2.333333333,2.666666667,1,Right,Signalized,No
+113,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T5,1,1,1,Left,Uncontrolled,Yes
+114,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T6,1,2,1,Left,Signalized,No
+115,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T7,2.666666667,1,1,Left,Uncontrolled,Yes
+116,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T8,2,1,1,Right,Uncontrolled,No
+117,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T9,1.666666667,1.333333333,1,Right,Uncontrolled,No
+118,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T10,1,1,1,Right,Signalized,No
+119,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T11,2,2,1,Right,Signalized,No
+120,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T12,2,1,1,Left,Uncontrolled,No
+121,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T13,3,3,1,Right,Signalized,Yes
+122,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T14,1,1,1,Right,Uncontrolled,No
+123,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T15,1,2,1,Right,Signalized,No
+124,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T16,1,1,1,Left,Uncontrolled,No
+125,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T17,1,1,1,Left,Signalized,No
+126,7,2009,Never,2014,1982,No,Never,A few times a year or less,A few times a year or less,A few days a month,T18,3,1,1,Left,Signalized,No
+127,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T1,1,1,1,Right,Signalized,No
+128,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T2,1,2,1,Left,Signalized,No
+129,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T3,1,1,1,Right,Signalized,No
+130,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T4,1.333333333,2,1,Right,Signalized,No
+131,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T5,2.333333333,1,1,Left,Uncontrolled,No
+132,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T6,1,1.666666667,1,Left,Signalized,No
+133,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T7,2,1,1,Left,Uncontrolled,No
+134,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T8,NA,NA,NA,Right,Uncontrolled,NA
+135,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T9,NA,NA,NA,Right,Uncontrolled,NA
+136,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T10,1,1,1,Right,Signalized,No
+137,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T11,2,2.666666667,1,Right,Signalized,No
+138,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+139,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T13,1,1.666666667,1,Right,Signalized,No
+140,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+141,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T15,2.666666667,2.333333333,1,Right,Signalized,No
+142,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T16,1,1,1,Left,Uncontrolled,Yes
+143,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T17,1,1,1,Left,Signalized,No
+144,8,2010,A few days a week,1996,1978,Yes,A few days a week,A few days a month,A few days a month,A few days a week,T18,2.333333333,1,1,Left,Signalized,Yes
+145,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T1,1.666666667,1,1,Right,Signalized,Yes
+146,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T2,1,1,1,Left,Signalized,No
+147,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T3,2,1,1,Right,Signalized,No
+148,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T4,1,1.666666667,1,Right,Signalized,No
+149,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T5,1,1,1,Left,Uncontrolled,No
+150,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T6,1,1,1,Left,Signalized,Yes
+151,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T7,1,1,1,Left,Uncontrolled,Yes
+152,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T8,2.333333333,2,1,Right,Uncontrolled,Yes
+153,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T9,1,1,1,Right,Uncontrolled,No
+154,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T10,2,1,1,Right,Signalized,No
+155,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T11,1,1,1,Right,Signalized,No
+156,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T12,1,1,1,Left,Uncontrolled,No
+157,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T13,1,1,1,Right,Signalized,Yes
+158,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T14,1,1,1,Right,Uncontrolled,No
+159,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T15,2,1,1,Right,Signalized,Yes
+160,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T16,1,1,1,Left,Uncontrolled,Yes
+161,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T17,1,1,1,Left,Signalized,No
+162,9,2011,Never,1997,1974,No,Never,A few times a year or less,A few times a year or less,A few times a year or less,T18,2,1,1,Left,Signalized,No
+163,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T1,1,1.666666667,1,Right,Signalized,No
+164,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T2,2,3,1,Left,Signalized,No
+165,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T3,1,1,1,Right,Signalized,No
+166,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T4,1,1.333333333,1,Right,Signalized,No
+167,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T5,1,1.666666667,1,Left,Uncontrolled,Yes
+168,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T6,1,1.666666667,1,Left,Signalized,No
+169,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T7,2.333333333,1,1,Left,Uncontrolled,No
+170,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T8,1.333333333,1,1,Right,Uncontrolled,No
+171,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T9,1,1,1,Right,Uncontrolled,No
+172,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T10,1,1,1,Right,Signalized,No
+173,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T11,1,1,1,Right,Signalized,No
+174,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+175,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T13,1.666666667,1.333333333,1,Right,Signalized,No
+176,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+177,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T15,1,1,1,Right,Signalized,No
+178,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T16,1,1,1,Left,Uncontrolled,No
+179,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T17,1,1,1,Left,Signalized,No
+180,10,2012,Every day or almost every day,1995,1979,No,A few days a month,A few times a year or less,A few days a month,A few days a week,T18,2,1,1,Left,Signalized,No
+181,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T1,1,1,1,Right,Signalized,No
+182,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T2,2,1.333333333,1,Left,Signalized,No
+183,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T3,1.666666667,1,1,Right,Signalized,Yes
+184,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T4,3,2.666666667,1,Right,Signalized,Yes
+185,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T5,3,1,1,Left,Uncontrolled,No
+186,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T6,1.333333333,2.333333333,1,Left,Signalized,No
+187,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T7,3,1,1,Left,Uncontrolled,No
+188,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T8,2,1,1,Right,Uncontrolled,Yes
+189,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,Yes
+190,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T10,1.666666667,1,1,Right,Signalized,Yes
+191,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T11,2,1,1,Right,Signalized,No
+192,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T12,2,1,1,Left,Uncontrolled,No
+193,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T13,1,1,1,Right,Signalized,No
+194,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+195,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T15,1,2,1,Right,Signalized,No
+196,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T16,2.333333333,1,1,Left,Uncontrolled,Yes
+197,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T17,1,1,1,Left,Signalized,No
+198,11,2013,Never,2013,1981,No,Never,A few days a month,A few days a week,A few days a week,T18,2,1,1,Left,Signalized,No
+199,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T1,2,1,1,Right,Signalized,Yes
+200,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T2,1,1,1,Left,Signalized,No
+201,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T3,2,1,1,Right,Signalized,No
+202,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T4,2,1,1,Right,Signalized,No
+203,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T5,1,1,1,Left,Uncontrolled,No
+204,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T6,1,1,1,Left,Signalized,No
+205,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T7,2,1,1,Left,Uncontrolled,No
+206,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T8,1,1,1,Right,Uncontrolled,Yes
+207,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T9,1,1,1,Right,Uncontrolled,No
+208,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T10,1,1,1,Right,Signalized,Yes
+209,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T11,1.333333333,1.666666667,1,Right,Signalized,No
+210,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T12,1,1,1,Left,Uncontrolled,No
+211,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T13,1,1.666666667,1,Right,Signalized,No
+212,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T14,NA,NA,NA,Right,Uncontrolled,No
+213,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T15,2.333333333,2,1,Right,Signalized,Yes
+214,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T16,2,1,1,Left,Uncontrolled,No
+215,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T17,1,1,1,Left,Signalized,No
+216,12,2014,Never,1997,1978,No,Never,A few days a week,Every day or almost every day,Every day or almost every day,T18,3,1,1,Left,Signalized,No
+217,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T1,2.333333333,2.666666667,1,Right,Signalized,Yes
+218,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T2,2.333333333,2,1,Left,Signalized,Yes
+219,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T3,1,1,1,Right,Signalized,No
+220,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T4,2,1,1,Right,Signalized,Yes
+221,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T5,1,1,1,Left,Uncontrolled,No
+222,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T6,2.333333333,1.666666667,1,Left,Signalized,No
+223,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T7,2.333333333,1.333333333,1.333333333,Left,Uncontrolled,No
+224,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T8,1,1,1,Right,Uncontrolled,Yes
+225,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T9,1,2.333333333,1,Right,Uncontrolled,No
+226,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T10,2,1,1,Right,Signalized,No
+227,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T11,3,2,1.666666667,Right,Signalized,No
+228,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T12,1,1.333333333,1,Left,Uncontrolled,No
+229,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T13,2,3,1,Right,Signalized,No
+230,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+231,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T15,2,1,1,Right,Signalized,Yes
+232,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T16,3,1,1,Left,Uncontrolled,No
+233,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T17,1,1,1,Left,Signalized,No
+234,13,2015,Never,2009,1980,No,Never,A few times a year or less,A few days a month,A few days a week,T18,1,1,1,Left,Signalized,No
+235,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T1,2,1,1,Right,Signalized,Yes
+236,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T2,1,1.666666667,1,Left,Signalized,No
+237,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T3,1,1,1,Right,Signalized,No
+238,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T4,1,1.666666667,1,Right,Signalized,No
+239,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T5,1,1,1,Left,Uncontrolled,No
+240,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T6,1,1,1,Left,Signalized,No
+241,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T7,2,1,1,Left,Uncontrolled,Yes
+242,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T8,1.666666667,1,1,Right,Uncontrolled,Yes
+243,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T9,1,1,1,Right,Uncontrolled,No
+244,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T10,2.333333333,1,1,Right,Signalized,No
+245,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T11,2.333333333,2,1,Right,Signalized,No
+246,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T12,2,1,1,Left,Uncontrolled,No
+247,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T13,1,1,1,Right,Signalized,No
+248,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T14,1,1,1,Right,Uncontrolled,No
+249,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T15,1.666666667,1.333333333,1,Right,Signalized,Yes
+250,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T16,1.333333333,1,1,Left,Uncontrolled,Yes
+251,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T17,1,1,1,Left,Signalized,No
+252,14,2016,A few days a month,1989,1972,No,Never,A few times a year or less,A few times a year or less,A few days a month,T18,3,1,1,Left,Signalized,No
+253,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T1,1,1,1.666666667,Right,Signalized,No
+254,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T2,1,1,1,Left,Signalized,No
+255,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T3,1,1,1,Right,Signalized,No
+256,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T4,1,1,1,Right,Signalized,No
+257,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T5,1,1,1,Left,Uncontrolled,Yes
+258,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T6,1,1,1,Left,Signalized,No
+259,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T7,1.333333333,1,1,Left,Uncontrolled,No
+260,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T8,1,1,1,Right,Uncontrolled,No
+261,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T9,1,1,1,Right,Uncontrolled,Yes
+262,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T10,1,1,1,Right,Signalized,No
+263,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T11,2,2,1,Right,Signalized,No
+264,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T12,1,1,1,Left,Uncontrolled,No
+265,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T13,1,1,1,Right,Signalized,No
+266,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T14,1,1,1,Right,Uncontrolled,No
+267,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T15,1,1,1,Right,Signalized,No
+268,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T16,1.333333333,1,1,Left,Uncontrolled,No
+269,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T17,1,1,1,Left,Signalized,No
+270,15,2017,A few times or less,1996,1976,No,A few times a year or less,A few days a week,Every day or almost every day,Every day or almost every day,T18,2,1,1,Left,Signalized,No
+271,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T1,1,1.333333333,1,Right,Signalized,No
+272,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T2,1.666666667,3,1,Left,Signalized,No
+273,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T3,1,1,1,Right,Signalized,No
+274,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T4,2.333333333,2.333333333,1.666666667,Right,Signalized,No
+275,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T5,1,1.333333333,1,Left,Uncontrolled,Yes
+276,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T6,1.666666667,2.333333333,1,Left,Signalized,No
+277,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T7,1,1.333333333,1,Left,Uncontrolled,No
+278,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T8,1.666666667,1,1,Right,Uncontrolled,No
+279,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T9,1,1.666666667,1,Right,Uncontrolled,No
+280,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T10,1,1,1,Right,Signalized,No
+281,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T11,2,2.333333333,1,Right,Signalized,No
+282,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T12,1.666666667,1.333333333,1,Left,Uncontrolled,No
+283,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T13,1,1,1,Right,Signalized,No
+284,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T14,1,2,1.666666667,Right,Uncontrolled,No
+285,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T15,1.666666667,2.333333333,1,Right,Signalized,No
+286,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T16,1.666666667,1.333333333,1,Left,Uncontrolled,No
+287,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T17,1.333333333,1,1,Left,Signalized,No
+288,16,2018,A few days a month,1998,1981,No,A few times a year or less,A few times a year or less,A few days a month,Every day or almost every day,T18,2.333333333,1.666666667,1,Left,Signalized,No
+289,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T1,2,2,1,Right,Signalized,No
+290,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T2,2,2,1,Left,Signalized,No
+291,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T3,1,1,1,Right,Signalized,No
+292,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T4,2,3,1.333333333,Right,Signalized,Yes
+293,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T5,2,1,1,Left,Uncontrolled,No
+294,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T6,1,1.333333333,1,Left,Signalized,No
+295,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T7,1,1,1,Left,Uncontrolled,No
+296,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T8,1.333333333,1.666666667,1,Right,Uncontrolled,Yes
+297,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T9,1,1,1,Right,Uncontrolled,No
+298,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T10,1,1,1,Right,Signalized,No
+299,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T11,2.333333333,1.333333333,1,Right,Signalized,Yes
+300,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T12,2,1,1,Left,Uncontrolled,No
+301,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T13,2.666666667,2,1.333333333,Right,Signalized,No
+302,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T14,NA,NA,NA,Right,Uncontrolled,NA
+303,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T15,1.666666667,1.333333333,1,Right,Signalized,No
+304,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T16,1.666666667,1,1,Left,Uncontrolled,No
+305,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T17,1,1,1,Left,Signalized,No
+306,17,2019,Never,1999,1978,No,Never,A few times a year or less,A few times a year or less,A few days a month,T18,2.333333333,1,1,Left,Signalized,No
+307,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T1,1,1,1,Right,Signalized,Yes
+308,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T2,1.666666667,2.333333333,1,Left,Signalized,No
+309,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T3,1,1,1,Right,Signalized,No
+310,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T4,1,1,1,Right,Signalized,Yes
+311,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T5,1,1,1,Left,Uncontrolled,Yes
+312,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T6,1,1,1,Left,Signalized,No
+313,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T7,1,1,1,Left,Uncontrolled,Yes
+314,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T8,1,1,1,Right,Uncontrolled,Yes
+315,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T9,1,1,1,Right,Uncontrolled,No
+316,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T10,1,1,1,Right,Signalized,Yes
+317,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T11,2,1,1,Right,Signalized,Yes
+318,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+319,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T13,2,2,1.666666667,Right,Signalized,Yes
+320,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+321,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T15,1,1,1,Right,Signalized,Yes
+322,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T16,1.333333333,1,1,Left,Uncontrolled,Yes
+323,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T17,1,1,1,Left,Signalized,No
+324,18,2020,Never,1989,1974,No,Never,A few days a month,A few days a month,A few days a week,T18,2,1,1,Left,Signalized,No
+325,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T1,2,1,1.333333333,Right,Signalized,Yes
+326,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T2,1.333333333,2,1,Left,Signalized,No
+327,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T3,2,1,1,Right,Signalized,Yes
+328,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T4,1,1,1,Right,Signalized,Yes
+329,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T5,1.666666667,1,1,Left,Uncontrolled,Yes
+330,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T6,1,1,1,Left,Signalized,No
+331,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T7,1,1,1,Left,Uncontrolled,No
+332,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T8,1.666666667,1.333333333,1,Right,Uncontrolled,Yes
+333,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T9,1,1,1,Right,Uncontrolled,Yes
+334,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T10,1,1,1,Right,Signalized,No
+335,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T11,1,1,1,Right,Signalized,Yes
+336,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T12,1,1,1,Left,Uncontrolled,No
+337,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T13,1,1,1,Right,Signalized,Yes
+338,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T14,1,1,1,Right,Uncontrolled,Yes
+339,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T15,1,1,1,Right,Signalized,No
+340,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T16,1,1,1,Left,Uncontrolled,No
+341,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T17,1.333333333,1,1,Left,Signalized,No
+342,19,2021,Never,1998,1967,No,Never,Never,A few times a year or less,A few days a month,T18,1,1,1,Left,Signalized,No
+343,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T1,1,1,1,Right,Signalized,No
+344,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T2,2,1,1,Left,Signalized,No
+345,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T3,1,1,1,Right,Signalized,Yes
+346,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T4,2.333333333,2,1,Right,Signalized,Yes
+347,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T5,1,1,1,Left,Uncontrolled,Yes
+348,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T6,1,1,1,Left,Signalized,No
+349,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T7,1,1,1,Left,Uncontrolled,No
+350,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T8,1,1.333333333,1,Right,Uncontrolled,No
+351,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,No
+352,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T10,1,1,1,Right,Signalized,No
+353,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T11,2.333333333,2.333333333,1,Right,Signalized,No
+354,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+355,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T13,1,1,1,Right,Signalized,No
+356,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+357,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T15,2,1,1,Right,Signalized,Yes
+358,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T16,2.333333333,1,1,Left,Uncontrolled,Yes
+359,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T17,1,1,1,Left,Signalized,No
+360,20,2022,Never,2000,1981,No,Never,A few times a year or less,A few days a week,A few days a week,T18,3,1,1,Left,Signalized,No
+361,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T1,1,1,1,Right,Signalized,No
+362,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T2,2,1,1,Left,Signalized,No
+363,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T3,1,1,1,Right,Signalized,No
+364,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T4,1,1,1,Right,Signalized,No
+365,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T5,1,1,1,Left,Uncontrolled,No
+366,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T6,1,2.333333333,1,Left,Signalized,No
+367,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T7,1,1,1,Left,Uncontrolled,Yes
+368,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T8,1.333333333,1,1.333333333,Right,Uncontrolled,No
+369,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,No
+370,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T10,1.333333333,1,1,Right,Signalized,No
+371,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T11,1,1,1,Right,Signalized,No
+372,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T12,1,1,1,Left,Uncontrolled,No
+373,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T13,2,1,1,Right,Signalized,No
+374,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+375,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T15,NA,NA,NA,Right,Signalized,NA
+376,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T16,NA,NA,NA,Left,Uncontrolled,NA
+377,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T17,NA,NA,NA,Left,Signalized,NA
+378,21,2023,Never,1994,1976,No,Never,A few days a week,A few days a week,A few days a week,T18,NA,NA,NA,Left,Signalized,NA
+379,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T1,1.333333333,1,1,Right,Signalized,No
+380,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T2,3,2,1,Left,Signalized,No
+381,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T3,1,1,1,Right,Signalized,No
+382,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T4,2,2,1,Right,Signalized,No
+383,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T5,1,1,1,Left,Uncontrolled,Yes
+384,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T6,1,2,1,Left,Signalized,No
+385,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T7,1.666666667,1.333333333,1,Left,Uncontrolled,No
+386,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T8,1,1,1,Right,Uncontrolled,Yes
+387,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T9,1,1,1,Right,Uncontrolled,No
+388,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T10,1,1,1,Right,Signalized,No
+389,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T11,1,1,1,Right,Signalized,No
+390,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T12,1.333333333,1,1,Left,Uncontrolled,No
+391,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T13,1.333333333,2,1,Right,Signalized,Yes
+392,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T14,1.666666667,1.666666667,1,Right,Uncontrolled,No
+393,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T15,1,1.666666667,1,Right,Signalized,Yes
+394,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T16,2,1,1,Left,Uncontrolled,No
+395,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T17,1,1,1,Left,Signalized,No
+396,22,2024,A few days a month,2002,1978,No,Never,Never,A few days a month,A few days a month,T18,1,1,1,Left,Signalized,No
+397,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T1,3,2,1,Right,Signalized,Yes
+398,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T2,3,2,1,Left,Signalized,No
+399,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T3,1,1,1,Right,Signalized,Yes
+400,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T4,1,2,1,Right,Signalized,Yes
+401,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T5,1,1,1,Left,Uncontrolled,No
+402,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T6,1,1,1,Left,Signalized,No
+403,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T7,1,1,1,Left,Uncontrolled,Yes
+404,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T8,1.666666667,1,1,Right,Uncontrolled,Yes
+405,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T9,1,1.666666667,1,Right,Uncontrolled,No
+406,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T10,1,1,1,Right,Signalized,Yes
+407,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T11,1,1,1,Right,Signalized,No
+408,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T12,1.333333333,1,1,Left,Uncontrolled,No
+409,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T13,1,1,1,Right,Signalized,No
+410,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T14,1,1.333333333,1,Right,Uncontrolled,Yes
+411,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T15,2.333333333,1,1,Right,Signalized,Yes
+412,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T16,1,1,1,Left,Uncontrolled,No
+413,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T17,1,1.333333333,1,Left,Signalized,No
+414,23,2025,A few days a month,1991,1973,Yes,A few days a month,A few days a month,A few days a week,Every day or almost every day,T18,1,1,1,Left,Signalized,No
+415,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T1,1.666666667,1,1,Right,Signalized,Yes
+416,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T2,1,1,1,Left,Signalized,No
+417,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T3,1,1,1,Right,Signalized,No
+418,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T4,1,1,1,Right,Signalized,No
+419,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T5,2.666666667,1,1,Left,Uncontrolled,Yes
+420,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T6,1,1,1,Left,Signalized,No
+421,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T7,1,1,1,Left,Uncontrolled,No
+422,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T8,1.666666667,1,1,Right,Uncontrolled,Yes
+423,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T9,1,1,1,Right,Uncontrolled,No
+424,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T10,1,1,1,Right,Signalized,No
+425,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T11,2,2,1,Right,Signalized,Yes
+426,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T12,1,1,1,Left,Uncontrolled,No
+427,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T13,1,1,1,Right,Signalized,Yes
+428,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T14,1,1,1,Right,Uncontrolled,No
+429,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T15,1,1.666666667,1,Right,Signalized,Yes
+430,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T16,2,1,1.333333333,Left,Uncontrolled,No
+431,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T17,1,1,1,Left,Signalized,No
+432,24,2026,A few days a month,2006,1981,Yes,A few times a year or less,A few times a year or less,A few days a week,Every day or almost every day,T18,1,1,1,Left,Signalized,No
+433,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T1,1,1,1,Right,Signalized,Yes
+434,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T2,2,2,1,Left,Signalized,No
+435,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T3,1,1,1,Right,Signalized,Yes
+436,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T4,2,2.333333333,1,Right,Signalized,Yes
+437,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T5,1,1,1,Left,Uncontrolled,No
+438,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T6,1,2.333333333,1,Left,Signalized,No
+439,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T7,1,1,1,Left,Uncontrolled,No
+440,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T8,1,1,1,Right,Uncontrolled,Yes
+441,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T9,1,1,1,Right,Uncontrolled,Yes
+442,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T10,2,1,1,Right,Signalized,Yes
+443,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T11,1.333333333,1,1,Right,Signalized,Yes
+444,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T12,1.666666667,1,1,Left,Uncontrolled,No
+445,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T13,1.666666667,1,1.333333333,Right,Signalized,Yes
+446,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T14,1,1,1,Right,Uncontrolled,No
+447,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T15,1.333333333,1,1,Right,Signalized,Yes
+448,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T16,1,1,1,Left,Uncontrolled,No
+449,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T17,1,1,1,Left,Signalized,No
+450,25,2027,Never,1995,1979,No,Never,A few times a year or less,A few days a week,A few days a week,T18,2,1,1,Left,Signalized,No
+451,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T1,2,2,1,Right,Signalized,No
+452,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T2,2.666666667,2.333333333,1.666666667,Left,Signalized,No
+453,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T3,1,1.666666667,1,Right,Signalized,No
+454,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T4,2,2.333333333,1,Right,Signalized,No
+455,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T5,2.333333333,1,1,Left,Uncontrolled,No
+456,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T6,1,1,1,Left,Signalized,No
+457,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T7,1.333333333,1,1,Left,Uncontrolled,No
+458,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T8,2.333333333,1,1,Right,Uncontrolled,Yes
+459,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T9,1,1,1,Right,Uncontrolled,No
+460,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T10,NA,NA,NA,Right,Signalized,NA
+461,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T11,NA,NA,NA,Right,Signalized,NA
+462,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T12,NA,NA,NA,Left,Uncontrolled,NA
+463,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T13,NA,NA,NA,Right,Signalized,NA
+464,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T14,NA,NA,NA,Right,Uncontrolled,NA
+465,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T15,NA,NA,NA,Right,Signalized,NA
+466,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T16,NA,NA,NA,Left,Uncontrolled,NA
+467,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T17,NA,NA,NA,Left,Signalized,NA
+468,26,2028,Never,1998,1966,No,Never,A few days a week,A few days a month,A few days a month,T18,NA,NA,NA,Left,Signalized,NA
